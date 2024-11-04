@@ -1,9 +1,7 @@
 package com.ejadaSolutions.stepDefinitions.ejadaSolution;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
-import com.ejadaSolutions.common.ui.uiAutomation.JSUtils;
-import com.ejadaSolutions.project.CheckoutPage;
-import com.ejadaSolutions.project.OverviewPage;
+import com.ejadaSolutions.ejada.OverviewPage;
 import io.cucumber.java.en.Then;
 
 public class overviewPageStepDef extends BaseWebDriver {

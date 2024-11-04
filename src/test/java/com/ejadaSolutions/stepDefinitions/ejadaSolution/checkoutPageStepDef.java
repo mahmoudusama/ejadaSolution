@@ -1,9 +1,7 @@
 package com.ejadaSolutions.stepDefinitions.ejadaSolution;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
-import com.ejadaSolutions.common.ui.uiAutomation.JSUtils;
-import com.ejadaSolutions.project.CartPage;
-import com.ejadaSolutions.project.CheckoutPage;
+import com.ejadaSolutions.ejada.CheckoutPage;
 import io.cucumber.java.en.Then;
 
 public class checkoutPageStepDef extends BaseWebDriver {
