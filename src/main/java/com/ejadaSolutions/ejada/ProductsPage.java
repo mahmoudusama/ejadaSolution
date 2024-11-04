@@ -1,8 +1,7 @@
-package com.ejadaSolutions.project;
+package com.ejadaSolutions.ejada;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
 import com.ejadaSolutions.common.ui.uiAutomation.SeleUtils;
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 
 public class ProductsPage extends BaseWebDriver {

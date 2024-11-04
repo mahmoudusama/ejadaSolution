@@ -1,4 +1,4 @@
-package com.ejadaSolutions.project;
+package com.ejadaSolutions.ejada;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
 import com.ejadaSolutions.common.ui.uiAutomation.BrowserWinUtils;

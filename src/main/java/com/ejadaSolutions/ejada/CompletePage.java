@@ -1,12 +1,9 @@
-package com.ejadaSolutions.project;
+package com.ejadaSolutions.ejada;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
 import com.ejadaSolutions.common.ui.uiAutomation.SeleUtils;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-
-import java.util.List;
 
 public class CompletePage extends BaseWebDriver {
     private static final By messageContainer = By.id("checkout_complete_container");

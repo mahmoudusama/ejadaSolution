@@ -5,7 +5,7 @@ import com.ejadaSolutions.common.ui.uiAutomation.JSUtils;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import com.ejadaSolutions.project.LoginPage;
+import com.ejadaSolutions.ejada.LoginPage;
 import org.junit.jupiter.api.Assertions;
 
 public class loginPageStepDef extends BaseWebDriver {

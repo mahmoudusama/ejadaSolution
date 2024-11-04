@@ -1,4 +1,4 @@
-package com.ejadaSolutions.stepDefinitions.samples.web;
+package com.ejadaSolutions.stepDefinitions.common.web;
 
 import com.ejadaSolutions.common.ui.base.BaseWebDriver;
 import com.ejadaSolutions.common.ui.uiAutomation.BrowserWinUtils;
