@@ -5,6 +5,11 @@
 The framework tests the login feature with both positive and negative scenarios. It also focuses on the basic test cases for the purchase process.
 For the API, it tests the Book system API to cover most of the test cases mentioned in the task
 
+## Prerequisites
+   * Java 17 or higher
+   * Maven
+   * An IDE (e.g., IntelliJ IDEA, Eclipse)
+
 ## Framework
 The framework is designed in java using selenium and cucumber (gherkin), the framework supports three browsers (Chrome, Edge and Firefox) according to the config file of the project.
 
